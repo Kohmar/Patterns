@@ -5,5 +5,6 @@ public class Client {
         DoWork prisident = new Army();
         String rezult = prisident.diggingAPit();
         System.out.println(rezult);
+        System.out.println("hey");
     }
 }
